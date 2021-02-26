@@ -1,0 +1,9 @@
+{
+	"database": "TestDB",
+	"collection": "TestCollection",
+	"id_key": "2",
+	"order_key": "3",
+	"data": {
+	  "This is the data"
+	}
+}
